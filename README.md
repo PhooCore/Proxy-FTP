@@ -96,7 +96,7 @@ Si vous avez des avertissements, vous pouvez les ignorer ou les corriger selon v
 
 ---
 
-## 🚀 Utilisation
+## Utilisation
 
 ### Lancer le proxy
 
@@ -301,14 +301,6 @@ proxy-ftp/
 - Ajouter des logs d'audit
 - Gérer les timeout de connexion
 - Valider toutes les entrées utilisateur
-
----
-
-## 📚 Ressources
-
-- [RFC 959 - FTP Protocol](https://www.rfc-editor.org/rfc/rfc959)
-- [Guide sur les sockets en C](https://beej.us/guide/bgnet/)
-- [Documentation FTP](https://www.ietf.org/rfc/rfc959.txt)
 
 ---
 
